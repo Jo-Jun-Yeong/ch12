@@ -7,7 +7,7 @@
  *    
  *  Ex) // Tv객체만 생성할 수 있는 ArrayList작성
  *  		ArrayList<Tv> tvList = new ArrayList<Tv>();
- *  				 <"">""만 저장이 가능, 타입정보를 추가 제공해 준다.
+ *  				 <"">""타입만 저장이 가능, 타입정보를 추가 제공해 준다.
  *  
  *   		tvList.add(new Tv()); 	//tv타입 이므로 저장 가능
  *   		tvList.add(new Audio()); //컴파일에서 에러를 잡아준다.
